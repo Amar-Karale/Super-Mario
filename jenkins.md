@@ -1,6 +1,6 @@
 ## CONFIGURING JENKKINS PIPELINE
 ### Job1 pipeline sysntax 
-![parameters](./images/j1.png)
+![parameters](./.images/j1.png)
 
 ```groovy
 pipeline {
