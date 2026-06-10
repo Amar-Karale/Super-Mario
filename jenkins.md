@@ -1,4 +1,19 @@
 ## CONFIGURING JENKKINS PIPELINE
+
+### Install following plugins
+````
+terraform
+stage view
+aws credentials
+````
+
+### manage jenkins >> tools
+**terraform** = terraform
+
+### manage jenkins >> credentials 
+kind: aws credentaials
+
+
 ### Job1 pipeline sysntax 
 ![parameters](./.Images/j1.png)
 
